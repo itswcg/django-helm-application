@@ -331,3 +331,7 @@ django_helm/media/
 .env
 .envs/*
 !.envs/.local/
+
+### clery
+celerybeat-schedule
+celerybeat.pid
