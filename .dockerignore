@@ -2,5 +2,6 @@
 !.coveragerc
 !.env
 !.pylintrc
+venv/
 celerybeat-schedule
 celerybeat.pid
