@@ -19,3 +19,4 @@ jobs:
           name: itswcg/django-helm-application
           username: ${{ secrets.REGISTRY_USERNAME }}
           password: ${{ secrets.REGISTRY_PASSWORD }}
+          cache: true
